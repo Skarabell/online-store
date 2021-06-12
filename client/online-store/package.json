@@ -37,6 +37,8 @@
   },
   "devDependencies": {
     "mobx": "^6.3.2",
+    "mobx-react-lite": "^3.2.0",
+    "react-bootstrap": "^1.6.1",
     "react-router-dom": "^5.2.0"
   }
 }
